@@ -1,2 +1,2 @@
 # github-example
-This is a demonstration of how to create a repository and properly set it up
+This repository contains the final assignment and the capstone project for the IBM applied data science capstone course
